@@ -1,2 +1,3 @@
-# Wizlly-Educatio-nal-App
-Title: Education Platform - UI/UX Design  Description: This repository contains the complete UI/UX design for an Education Platform, created as part of a graduation project in the Digital Egypt Pioneers Scholarship. The design aims to provide an intuitive and user-friendly experience for both students and teachers.   Tool Used: Figma 
+ Figma Design Link  
+You can view the design here:  
+[ Click here to open the design]([PASTE_YOUR_LINK_HERE](https://www.figma.com/design/v0X3IIHTjytDXCcAPPpsJd/teacher-(Nour)?node-id=0-1&t=o2yUZxNsKsd7UMFY-1))
